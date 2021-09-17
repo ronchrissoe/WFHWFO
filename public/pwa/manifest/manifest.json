@@ -1,0 +1,36 @@
+{
+    "theme_color": "#6b6865",
+    "background_color": "#6b6865",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "WFH WFO Schedule",
+    "short_name": "WWS",
+    "description": "WFH WFO Schedule",
+    "icons": [
+        {
+            "src": "/pwa/manifest/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/pwa/manifest/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/pwa/manifest/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/pwa/manifest/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
